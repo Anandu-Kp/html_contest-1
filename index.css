@@ -1,0 +1,50 @@
+ h1 {
+     font-family: 'Inter';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 64px;
+     line-height: 77px;
+     text-decoration-line: underline;
+     text-decoration-thickness: 2px;
+ }
+
+ body {
+
+     font-family: 'Inter';
+     font-style: normal;
+     padding-left: 20px;
+     font-weight: 400;
+     font-size: 40px;
+     /* line-height: 48px; */
+
+
+     color: #000000;
+ }
+
+ span {
+     font-style: italic;
+ }
+
+ .para {
+     padding: 60px;
+     width: 1600px;
+     height: 648.57px;
+     left: 89px;
+     top: 94.46px;
+
+     width: 1200px;
+     top: 47px;
+     margin-bottom: 5px;
+     border: 2px solid #000000;
+ }
+
+ a {
+     color: #000000;
+ }
+
+ img {
+     width: 1051px;
+     height: 762px;
+     left: 58px;
+     top: 874px;
+ }
